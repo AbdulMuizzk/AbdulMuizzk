@@ -3,13 +3,14 @@
 
 - 🔭 I’m currently working with **Conrad Labs**
 
-- 🌱 I’m currently learning **JAVA, Spring boot, Hibernate ORM **
+- 🌱 I’m currently learning **JAVA,Spring Boot, Hibernate ORM**
 
 - 👯 I’m looking to collaborate on **future projects built in MERN stack and Spring Boot**
 
 - 💬 Ask me about **Node, React Native, React, NestJS, React, Redux**
 
 - 📫 How to reach me **muizz481@gmail.com**
+- I am certified **AWS Cloud Practitioner** you can verify my badge on credly.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
