@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdul Muizz Khan</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working with **Alif Care (A Fully Managed Diabetes Platform)**
+- 🔭 I’m currently working with **Conrad Labs**
 
-- 🌱 I’m currently learning **GraphQL, TypeORM, AWS**
+- 🌱 I’m currently learning **JAVA, Spring boot, Hibernate ORM **
 
-- 👯 I’m looking to collaborate on **future projects built in MERN stack**
+- 👯 I’m looking to collaborate on **future projects built in MERN stack and Spring Boot**
 
-- 💬 Ask me about **Node, React Native, React, NestJS**
+- 💬 Ask me about **Node, React Native, React, NestJS, React, Redux**
 
 - 📫 How to reach me **muizz481@gmail.com**
 
