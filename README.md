@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Muizz Khan</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer from Dubai</h3>
 
-- 🔭 I’m currently working with **Conrad Labs**
+- 🔭 I’m currently working with **CarSwitch Arabia**
 
 - 🌱 I’m currently learning **JAVA,Spring Boot, Hibernate ORM**
 
